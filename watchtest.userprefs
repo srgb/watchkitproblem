@@ -1,1 +1,16 @@
-﻿<Properties StartupItem="iOS/watchtest.iOS.csproj" />
+﻿<Properties StartupItem="watchtest.iOSWatchKitExtension/watchtest.iOSWatchKitExtension.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="watchtest/watchtest.cs">
+    <Files>
+      <File FileName="iOS/AppDelegate.cs" Line="17" Column="2" />
+      <File FileName="watchtest.iOSWatchKitExtension/Info.plist" />
+      <File FileName="watchtest.iOSWatchKitApp/Info.plist" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="watchtest/watchtest.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

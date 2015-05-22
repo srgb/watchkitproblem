@@ -80,6 +80,11 @@
       <Project>{2213BAE9-8BB2-4820-AAEF-6D015C447597}</Project>
       <Name>watchtest</Name>
     </ProjectReference>
+    <ProjectReference Include="..\watchtest.iOSWatchKitExtension\watchtest.iOSWatchKitExtension.csproj">
+      <Project>{414AD1AB-432C-4EC5-8798-9E55DAE65587}</Project>
+      <Name>watchtest.iOSWatchKitExtension</Name>
+      <IsAppExtension>True</IsAppExtension>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Default.png" />
